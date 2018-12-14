@@ -66,6 +66,8 @@ int main(int argc, const char** argv)
             break; // escape
         }
     }
+    cin.get();
+    system("Pause");
     return 0;
 }
 
